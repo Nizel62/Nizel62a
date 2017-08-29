@@ -1,0 +1,54 @@
+<html>
+  <head>p {color:red;}
+h1 {background-color: green;}
+a {text-decoration: none;}
+p{font-size:20px;}
+h1{text-transform:uppercas;}
+p {text-align: center;}
+
+ul {
+  color:red;
+  font-size: 30px;
+}
+
+.blue{color:black;}
+.pink{color:yellow;}
+
+h3{background-color: #ff99fh  ;}
+h2 { border: 1px black solid}
+.centering {display:block; margin: auto; width:200px;}
+
+h3{font-size:30px;}
+
+    <title>This page is about me!</title>
+    <style>
+    
+    </style>  
+  </head>
+  <body><h1 class="centering">Nisse Rundqvist</h1>
+<h2>Rundqvist</h2>
+  
+<h3 class="centering">Siffernisse</h3>
+<p> Säsonskort på friends</p>
+<ul>
+  <li><em>Snickra</em></li>
+  <li>Renovera</li></ul>
+  
+ 
+
+
+  <a class="centering" href="http://www.google.se">länk</a>
+
+
+  
+
+
+
+
+  </body>
+</html>
+
+
+  
+
+
